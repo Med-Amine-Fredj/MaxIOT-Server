@@ -1,0 +1,432 @@
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:33:04.801Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:33:04.837Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:33:14.571Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:33:14.589Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:34:53.425Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:34:53.442Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:35:33.012Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:35:33.029Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:35:40.162Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:35:40.179Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:35:51.963Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:35:51.980Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:36:17.621Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:36:17.639Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:36:39.800Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:36:39.818Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:36:59.040Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:36:59.057Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:37:07.191Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:37:07.208Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:40:32.534Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:40:32.555Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:41:04.422Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:41:04.439Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:41:13.925Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:41:13.943Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:41:30.112Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:41:30.130Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:41:43.467Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:41:43.484Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:44:06.793Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:44:06.812Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:44:44.933Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:44:44.949Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:45:02.582Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:45:02.604Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:46:07.819Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:46:07.837Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:46:33.890Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:46:33.909Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:46:58.471Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:46:58.488Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:47:37.177Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:47:37.196Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:48:35.718Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:48:35.735Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:52:29.135Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:52:29.152Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:55:30.973Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:55:30.990Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:56:01.116Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:56:01.133Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:57:17.690Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:57:17.708Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:57:24.814Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:57:24.832Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:58:39.912Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:58:39.929Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:58:59.607Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T16:58:59.624Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:00:30.390Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:00:30.407Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:00:33.578Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:00:33.596Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:01:00.321Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:01:00.341Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:01:30.103Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:01:30.120Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:01:34.946Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:01:34.964Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:03:24.967Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:03:24.985Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:10:27.003Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:10:27.019Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:58:28.491Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T17:58:28.510Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:00:53.538Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:00:53.556Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:01:26.497Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:01:26.516Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:01:40.948Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:01:40.977Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:01:51.279Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:01:51.303Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:03:52.387Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:03:52.404Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:05:32.689Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:05:32.706Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:06:16.291Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-28T18:06:16.312Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:48:36.233Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:48:36.255Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:53:35.416Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:53:35.432Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:53:41.994Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:53:42.010Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:54:59.087Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:54:59.108Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:55:10.060Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:55:10.079Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:55:53.184Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:55:53.202Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:56:42.294Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T08:56:42.323Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T09:29:11.596Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T09:29:11.618Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T11:46:36.547Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T11:46:36.564Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T13:43:58.089Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T13:43:58.108Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T15:33:38.991Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T15:33:39.010Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:18:22.549Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:18:22.566Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:18:37.420Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:18:37.448Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:18:49.326Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:18:49.344Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:19:02.812Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:19:02.829Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:19:40.252Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:19:40.269Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:20:43.822Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:20:43.840Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:21:52.560Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:21:52.576Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:22:16.993Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:22:17.010Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:23:36.135Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:23:36.152Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:24:49.426Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:24:49.443Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:25:05.110Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:25:05.128Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:25:45.212Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:25:45.229Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:25:56.287Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:25:56.304Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:26:52.825Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:26:52.843Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:27:05.211Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:27:05.233Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:27:28.457Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:27:28.473Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:27:45.583Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:27:45.600Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:34:37.098Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:34:37.127Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:34:44.767Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:34:44.783Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:35:02.076Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:35:02.093Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:47:48.991Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:47:49.010Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:52:36.682Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:52:36.707Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:53:21.794Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:53:21.811Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:54:13.379Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:54:13.396Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:54:20.099Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:54:20.115Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:54:58.624Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:54:58.643Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:55:15.946Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T16:55:15.963Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T17:34:25.581Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T17:34:25.598Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T17:34:33.400Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T17:34:33.416Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-30T17:58:52.887Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-30T17:58:52.910Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:23:43.707Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:23:43.722Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:26:53.216Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:26:53.233Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:28:33.462Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:28:33.481Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:30:23.725Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:30:23.742Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:31:01.966Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:31:01.983Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:31:53.401Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:31:53.421Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:36:39.098Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:36:39.115Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:37:08.319Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:37:08.335Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:38:11.912Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:38:11.930Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:40:50.091Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:40:50.108Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:41:31.167Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:41:31.193Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:41:40.025Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-03-31T09:41:40.043Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-01T09:29:40.644Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-01T09:29:40.665Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-01T09:29:49.882Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-01T09:29:49.899Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-01T15:29:50.075Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-01T15:29:50.091Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-01T15:30:33.997Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-01T15:30:34.021Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-06T20:14:30.775Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-06T20:14:30.852Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-06T20:43:56.259Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-06T20:43:56.276Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T09:52:10.436Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T09:52:10.460Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:01:26.156Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:01:26.179Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:03:18.167Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:03:18.186Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:03:31.553Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:03:31.571Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:05:39.692Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:05:39.710Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:07:05.183Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:07:05.218Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:55:52.654Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T12:55:52.672Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:30:06.076Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:30:06.100Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:30:14.645Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:30:14.662Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:30:18.783Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:30:18.803Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:30:46.158Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:30:46.177Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:32:08.257Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:32:08.277Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:32:26.282Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:32:26.297Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:33:24.443Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:33:24.470Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:33:53.891Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T13:33:53.911Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:10:12.509Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:10:12.532Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:11:28.774Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:11:28.791Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:14:55.329Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:14:55.349Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:15:01.527Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:15:01.545Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:17:11.861Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-12T15:17:11.880Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T10:01:17.587Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T10:01:17.610Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T11:31:24.287Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T11:31:24.307Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T12:30:37.512Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T12:30:37.530Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T12:31:20.588Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T12:31:20.605Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T12:33:20.877Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T12:33:20.904Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T12:48:12.261Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T12:48:12.337Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:07:09.864Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:07:09.881Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:07:43.731Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:07:43.747Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:10:39.206Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:10:39.223Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:10:48.615Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:10:48.639Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:11:06.227Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:11:06.253Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:13:49.195Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:13:49.212Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:14:00.348Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:14:00.365Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:14:23.508Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:14:23.526Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:14:29.464Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:14:29.481Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:17:57.288Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:17:57.314Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:21:29.735Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:21:29.751Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:24:11.048Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:24:11.064Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:25:07.502Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:25:07.518Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:26:29.809Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:26:29.827Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:53:14.907Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T13:53:14.923Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T14:53:13.441Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T14:53:13.459Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T14:57:53.627Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T14:57:53.645Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T14:57:57.034Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T14:57:57.051Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T14:59:27.714Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T14:59:27.731Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T15:20:09.208Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T15:20:09.225Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-13T15:34:18.685Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-13T15:34:18.711Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T09:52:04.275Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T09:52:04.315Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:17:40.698Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:17:40.715Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:18:43.411Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:18:43.429Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:19:53.612Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:19:53.630Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:22:14.828Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:22:14.845Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:23:07.681Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:23:07.700Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:23:38.015Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:23:38.035Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:23:55.592Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:23:55.613Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:24:47.366Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:24:47.385Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:25:03.123Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T10:25:03.141Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:08:02.838Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:08:02.860Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:13:26.285Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:13:26.303Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:56:58.531Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:56:58.549Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:57:07.334Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:57:07.358Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:58:26.845Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:58:26.864Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:58:49.626Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T11:58:49.646Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:02:00.847Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:02:00.870Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:03:03.267Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:03:03.284Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:03:12.302Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:03:12.320Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:04:35.461Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:04:35.479Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:04:49.994Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:04:50.014Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:04:53.874Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:04:53.895Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:05:14.480Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:05:14.501Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:07:04.910Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:07:04.927Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:07:25.618Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:07:25.638Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:09:57.888Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:09:57.908Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:10:02.206Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:10:02.223Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:10:54.908Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:10:54.934Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:12:04.331Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:12:04.350Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:12:16.151Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:12:16.171Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:12:39.880Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:12:39.898Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:13:17.698Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:13:17.716Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:14:02.175Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:14:02.193Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:14:34.988Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:14:35.007Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:16:06.859Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:16:06.876Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:17:46.424Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:17:46.442Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:18:25.626Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:18:25.644Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:19:00.535Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:19:00.553Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:21:05.172Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:21:05.191Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:23:07.266Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:23:07.284Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:23:23.543Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:23:23.561Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:24:54.008Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:24:54.029Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:25:50.412Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:25:50.428Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:27:20.424Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:27:20.440Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:31:19.511Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:31:19.530Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:31:24.481Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:31:24.506Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:31:47.186Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:31:47.206Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:32:48.593Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:32:48.610Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:32:54.265Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:32:54.282Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:34:06.328Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:34:06.346Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:34:10.539Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:34:10.558Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:34:12.754Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:34:12.772Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:35:02.274Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:35:02.293Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:35:11.359Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:35:11.376Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:35:19.135Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:35:19.152Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:37:56.403Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:37:56.420Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:38:15.366Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:38:15.391Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:38:20.561Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T12:38:20.580Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:07:18.284Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:07:18.315Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:09:27.701Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:09:27.722Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:12:50.687Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:12:50.708Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:13:01.633Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:13:01.651Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:14:46.860Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:14:46.877Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:15:13.800Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T13:15:13.817Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-04-14T14:46:44.813Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-04-14T14:46:44.838Z"}

@@ -13,6 +13,7 @@ require('dotenv').config();
 require('./startup/logging')();
 require('./startup/db')();
 require('./startup/routes')(app);
+require('./mockIotServer/routes')(iotServer);
 
 const SensorsData = require('./Models/SensorsData');
 const devices = require('./Models/Devices');

@@ -1,41 +1,64 @@
-const express = require('express');
-const router = express.Router();
 const asyncHandler = require('express-async-handler');
-const { json } = require('express/lib/response');
+const express = require('express');
+
+const router = express.Router();
 
 const { SensorsData } = require('../Models/SensorsData');
 
-router.post(
+// @desc Add New Value To device Id
+// @route PUT api/sensors/
+// @body : { deviceId,value}
+router.put(
   '/',
   asyncHandler(async (req, res) => {
     try {
-      let sensorData = new SensorsData({
-        deviceId: req.body.deviceId,
-        values: req.body.values || null,
-      });
+      const response = await SensorsData.findById(req.body.deviceId);
 
-      const response = await sensorData.save();
+      if (response) {
+        const oldData = response.values.map((res) => {
+          return res;
+        });
 
-      res.send(response);
+        const result = await SensorsData.findByIdAndUpdate(req.body.deviceId, {
+          values: [
+            ...oldData,
+            {
+              value: req.body.value || null,
+            },
+          ],
+        });
+        res.json(result);
+      } else {
+        res.status(404);
+        throw new Error('Device not Found !');
+      }
     } catch (error) {
-      console.log(error);
+      throw new Error('' + error);
     }
   })
 );
 
+// @desc get all devices and their data
+// @route GET api/sensors/
 router.get(
   '/',
   asyncHandler(async (req, res) => {
     try {
       const response = await SensorsData.find();
-
-      res.send(response);
+      if (response) {
+        res.json(response);
+      } else {
+        res.status(404);
+        throw new Error('Device not Found !');
+      }
     } catch (error) {
-      console.log(error);
+      throw new Error('' + error);
     }
   })
 );
 
+// @desc delete device data by ID
+// @route DELETE api/sensors/:id
 router.delete(
   '/:id',
   asyncHandler(async (req, res) => {
@@ -43,10 +66,9 @@ router.delete(
       const device = await SensorsData.findOneAndDelete({
         deviceId: req.params.id,
       });
-
-      res.send(device);
+      res.json(device);
     } catch (error) {
-      console.log(error);
+      throw new Error('' + error);
     }
   })
 );

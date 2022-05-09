@@ -2,6 +2,15 @@ const mongoose = require('mongoose');
 
 const winston = require('winston');
 
+const valuesSchema = mongoose.Schema(
+  {
+    values: Number,
+  },
+  {
+    timestamps: true,
+  }
+);
+
 const sensorsDataSchema = new mongoose.Schema(
   {
     deviceId: {
@@ -10,9 +19,16 @@ const sensorsDataSchema = new mongoose.Schema(
       required: true,
       unique: true,
     },
-    values: {
-      type: Array,
-    },
+    values: [
+      {
+        type: new mongoose.Schema(
+          {
+            value: Number,
+          },
+          { timestamps: true }
+        ),
+      },
+    ],
   },
   {
     timestamps: true,

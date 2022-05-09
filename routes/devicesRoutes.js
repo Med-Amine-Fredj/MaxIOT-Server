@@ -1,9 +1,12 @@
-const express = require('express');
-const router = express.Router();
 const asyncHandler = require('express-async-handler');
+const express = require('express');
+
+const router = express.Router();
 
 const { Devices } = require('../Models/Devices');
 
+// @desc add new device
+// @route POST api/devices/
 router.post(
   '/',
   asyncHandler(async (req, res) => {
@@ -37,22 +40,28 @@ router.post(
 
       const response = await device.save();
 
-      res.send(response);
+      res.json(response);
     } catch (error) {
-      console.log(error);
+      throw new Error('' + error);
     }
   })
 );
 
+// @desc get all devices
+// @route GET api/devices/
 router.get(
   '/',
   asyncHandler(async (req, res) => {
     try {
       const response = await Devices.find();
-
-      res.send(response);
+      if (response) {
+        res.json(response);
+      } else {
+        res.status(404);
+        throw new Error('No Data Found !');
+      }
     } catch (error) {
-      console.log(error);
+      throw new Error('' + error);
     }
   })
 );

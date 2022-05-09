@@ -66,7 +66,12 @@ router.delete(
       const device = await SensorsData.findOneAndDelete({
         deviceId: req.params.id,
       });
-      res.json(device);
+      if (device) {
+        res.json(device);
+      } else {
+        res.status(404);
+        throw new Error('No Data Found !');
+      }
     } catch (error) {
       throw new Error('' + error);
     }

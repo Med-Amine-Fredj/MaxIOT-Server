@@ -4,6 +4,7 @@ const express = require('express');
 const router = express.Router();
 
 const { Devices } = require('../Models/Devices');
+const { SensorsData } = require('../Models/SensorsData');
 
 // @desc add new device
 // @route POST api/devices/
@@ -12,7 +13,6 @@ router.post(
   asyncHandler(async (req, res) => {
     try {
       let device = new Devices({
-        deviceId: req.body.deviceId,
         name: req.body.name,
         chartType: req.body.chartType,
         meta: req.body.meta
@@ -39,6 +39,12 @@ router.post(
       });
 
       const response = await device.save();
+
+      let deviceData = new SensorsData({
+        deviceId: response._id.toString(),
+      });
+
+      await deviceData.save();
 
       res.json(response);
     } catch (error) {

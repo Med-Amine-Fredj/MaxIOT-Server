@@ -3,7 +3,7 @@ const sensors = require('../routes/sensorsRoutes');
 const uiStyling = require('../routes/uiStylingRoutes');
 const devices = require('../routes/devicesRoutes');
 
-const iotApi = require('../iot/iotApi');
+const iotApi = require('../mockIotServer/iotApi');
 
 module.exports = function (app) {
   app.use(express.json());

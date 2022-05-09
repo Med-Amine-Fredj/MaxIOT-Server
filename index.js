@@ -4,6 +4,8 @@ const app = express();
 const colors = require('colors');
 const winston = require('winston');
 
+const iotServer = express();
+
 const http = require('http').Server(app);
 const io = require('socket.io')(http);
 
@@ -81,11 +83,18 @@ const deleteDevice = async (id) => {
 
 PORT = process.env.PORT || 5000;
 
-const server = http.listen(5000, () =>
+http.listen(5000, () =>
   winston.info(
     `Server is running on ${process.env.NODE_ENV} mode on port ${PORT}`
       .underline.magenta
   )
 );
 
-module.exports = server;
+IOT_PORT = process.env.IOT_PORT || 5001;
+
+iotServer.listen(IOT_PORT, () =>
+  winston.info(
+    `IOTServer is running on ${process.env.NODE_ENV} mode on port  ${IOT_PORT}`
+      .underline.yellow
+  )
+);

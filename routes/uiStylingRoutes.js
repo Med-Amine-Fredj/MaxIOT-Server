@@ -4,25 +4,52 @@ const asyncHandler = require('express-async-handler');
 
 const { UiStyling } = require('../Models/UiStyling');
 
-router.post(
+// @desc Add New deviceID  To row or col In ui
+// @route PUT /api/uiStyling/
+// @body : { id, layout ,deviceId}
+router.put(
   '/',
   asyncHandler(async (req, res) => {
     try {
-      let uiStyling = new UiStyling({
-        simpleData: {
-          scrollable: false,
-        },
-      });
+      const uiID = req.body.id || null;
+      const deviceID = req.body.deviceId || null;
+      const response = await UiStyling.findById(uiID);
 
-      const response = await uiStyling.save();
+      if (response) {
+        const oldData = response.components.map((res) => {
+          return res;
+        });
 
-      res.send(response);
+        const result = await UiStyling.findByIdAndUpdate(uiID, {
+          layout: req.body.layout,
+          components: [
+            ...oldData,
+            {
+              deviceId: deviceID,
+            },
+          ],
+        });
+        res.json(result);
+      } else {
+        let uiStylingData = new UiStyling({
+          layout: req.body.layout,
+          components: [
+            {
+              deviceId: deviceID,
+            },
+          ],
+        });
+        const addResult = await uiStylingData.save();
+        res.json(addResult);
+      }
     } catch (error) {
-      console.log(error);
+      throw new Error('' + error);
     }
   })
 );
 
+// @desc get all uiStyling
+// @route GET /api/uiStyling/
 router.get(
   '/',
   asyncHandler(async (req, res) => {

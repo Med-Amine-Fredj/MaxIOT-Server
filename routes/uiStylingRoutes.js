@@ -55,10 +55,13 @@ router.get(
   asyncHandler(async (req, res) => {
     try {
       const response = await UiStyling.find();
-
-      res.send(response);
+      if (response) {
+        res.json(response);
+      } else {
+        throw new Error('No Data Found !');
+      }
     } catch (error) {
-      console.log(error);
+      throw new Error('' + error);
     }
   })
 );

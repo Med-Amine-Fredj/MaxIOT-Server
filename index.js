@@ -27,9 +27,7 @@ SensorsData.SensorsData.watch().on('change', (data) => {
       values: data?.updateDescription?.updatedFields?.values,
     });
 });
-
 devices.Devices.watch().on('change', (data) => {
-  console.log(data);
   data.operationType == 'update' &&
     listeners.deviceUpdate({
       id: data?.documentKey?._id,

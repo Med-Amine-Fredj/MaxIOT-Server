@@ -19,6 +19,9 @@ const sensorsDataSchema = new mongoose.Schema(
       required: true,
       unique: true,
     },
+    numberStackedValues: {
+      type: Number,
+    },
     values: [
       {
         type: new mongoose.Schema(

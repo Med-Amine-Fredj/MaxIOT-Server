@@ -12,22 +12,26 @@ router.put(
   '/',
   asyncHandler(async (req, res) => {
     try {
-      const response = await SensorsData.findById(req.body.deviceId);
-
+      const response = await SensorsData.find({ deviceId: req.body.deviceId });
       if (response) {
-        const oldData = response.values.map((res) => {
+        const oldData = response[0].values.map((res) => {
           return res;
         });
 
-        const result = await SensorsData.findByIdAndUpdate(req.body.deviceId, {
-          values: [
-            ...oldData,
-            {
-              value: req.body.value || null,
-            },
-          ],
-        });
-        res.json(result);
+        const result = await SensorsData.findByIdAndUpdate(
+          response[0]._id.toString(),
+          {
+            numberStackedValues: req.body.numberStackedValues,
+            values: [
+              ...oldData,
+              {
+                value: req.body.value || null,
+              },
+            ],
+          }
+        );
+        const ok = await SensorsData.findById(response[0]._id.toString());
+        res.json(ok);
       } else {
         res.status(404);
         throw new Error('Device not Found !');

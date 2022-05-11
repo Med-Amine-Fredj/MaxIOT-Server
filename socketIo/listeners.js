@@ -15,4 +15,5 @@ module.exports = function (http) {
   const deviceInserted = (data) => {
     io.emit('devices-inserted', data);
   };
+  return { deviceValuesUpdate, deviceUpdate, deviceRemoved, deviceInserted };
 };

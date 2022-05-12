@@ -42,6 +42,11 @@ router.post(
 
       let deviceData = new SensorsData({
         deviceId: response._id.toString(),
+        values: [
+          {
+            value: 0,
+          },
+        ],
       });
 
       await deviceData.save();

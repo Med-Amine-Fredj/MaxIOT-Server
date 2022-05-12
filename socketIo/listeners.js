@@ -15,5 +15,18 @@ module.exports = function (http) {
   const deviceInserted = (data) => {
     io.emit('devices-inserted', data);
   };
-  return { deviceValuesUpdate, deviceUpdate, deviceRemoved, deviceInserted };
+
+  const connSocket = () => {
+    io.on('connection', function (socket) {
+      console.log('A user connected');
+    });
+  };
+
+  return {
+    deviceValuesUpdate,
+    deviceUpdate,
+    deviceRemoved,
+    deviceInserted,
+    connSocket,
+  };
 };

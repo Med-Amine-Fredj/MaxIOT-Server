@@ -21,6 +21,6 @@
     "winston-mongodb": "^5.0.7"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.16"
   }
 }

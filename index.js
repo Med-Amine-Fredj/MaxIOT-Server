@@ -26,18 +26,14 @@ SensorsData.SensorsData.watch().on('change', (data) => {
       id: data?.documentKey?._id,
       values: data?.updateDescription?.updatedFields?.values?.slice(-1)[0],
     });
-  console.log({
-    id: data?.documentKey?._id.toString(),
-    values: data?.updateDescription?.updatedFields?.values?.slice(-1)[0],
-  });
 });
 devices.Devices.watch().on('change', (data) => {
-  data.operationType == 'update' &&
+  if (data.operationType == 'update') {
     listeners.deviceUpdate({
       id: data?.documentKey?._id,
       meta: data?.updateDescription?.updatedFields?.meta,
     });
-
+  }
   if (data.operationType == 'delete') {
     listeners.deviceRemoved(data.documentKey._id.toString());
   }
@@ -48,6 +44,7 @@ devices.Devices.watch().on('change', (data) => {
 });
 
 PORT = process.env.PORT || 5000;
+
 io.on('connection', function (socket) {
   console.log('a user connected');
   socket.on('disconnect', function () {

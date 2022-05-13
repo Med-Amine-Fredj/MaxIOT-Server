@@ -19,7 +19,6 @@ router.put(
         const oldData = response.components.map((res) => {
           return res;
         });
-
         const result = await UiStyling.findByIdAndUpdate(uiID, {
           layout: req.body.layout,
           components: [
@@ -29,6 +28,7 @@ router.put(
             },
           ],
         });
+        console.log(result);
         res.json(result);
       } else {
         let uiStylingData = new UiStyling({

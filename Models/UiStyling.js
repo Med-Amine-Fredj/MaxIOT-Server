@@ -8,10 +8,7 @@ const UiStylingSchema = new mongoose.Schema(
     components: [
       {
         deviceId: {
-          type: mongoose.Schema.Types.ObjectId,
-          ref: 'devices',
-          required: true,
-          unique: true,
+          type: String,
         },
       },
     ],

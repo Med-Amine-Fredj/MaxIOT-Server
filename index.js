@@ -1,13 +1,14 @@
+const colors = require('colors');
+
 const express = require('express');
 const app = express();
 
-const colors = require('colors');
 const winston = require('winston');
-
-const iotServer = express();
 
 const http = require('http').Server(app);
 const io = require('socket.io')(http);
+
+const iotServer = express();
 
 require('dotenv').config();
 require('./startup/logging')();
@@ -19,6 +20,7 @@ const listeners = require('./socketIo/listeners')(http);
 
 const SensorsData = require('./Models/SensorsData');
 const devices = require('./Models/Devices');
+const UiStyling = require('./Models/UiStyling');
 
 SensorsData.SensorsData.watch().on('change', (data) => {
   data.operationType == 'update' &&
@@ -27,10 +29,11 @@ SensorsData.SensorsData.watch().on('change', (data) => {
       values: data?.updateDescription?.updatedFields?.values?.slice(-1)[0],
     });
 });
+
 devices.Devices.watch().on('change', (data) => {
   if (data.operationType == 'update') {
     listeners.deviceUpdate({
-      id: data?.documentKey?._id,
+      id: data?.documentKey?._id.toString(),
       meta: data?.updateDescription?.updatedFields?.meta,
     });
   }
@@ -38,8 +41,22 @@ devices.Devices.watch().on('change', (data) => {
     listeners.deviceRemoved(data.documentKey._id.toString());
   }
   if (data.operationType == 'insert') {
-    console.log(data.fullDocument);
     listeners.deviceInserted(data.fullDocument);
+  }
+});
+
+UiStyling.UiStyling.watch().on('change', (data) => {
+  if (data.operationType == 'insert') {
+    listeners.uiStylingInserted(data.fullDocument);
+  }
+  if (data.operationType == 'update') {
+    listeners.uiStylingUpdate({
+      id: data?.documentKey?._id.toString(),
+      components: data?.updateDescription?.updatedFields?.components,
+    });
+  }
+  if (data.operationType == 'delete') {
+    listeners.uiStylingRemove(data.documentKey._id.toString());
   }
 });
 

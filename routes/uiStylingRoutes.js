@@ -28,7 +28,6 @@ router.put(
             },
           ],
         });
-        console.log(result);
         res.json(result);
       } else {
         let uiStylingData = new UiStyling({
@@ -39,6 +38,7 @@ router.put(
             },
           ],
         });
+        console.log(uiStylingData);
         const addResult = await uiStylingData.save();
         res.json(addResult);
       }

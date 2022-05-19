@@ -5,9 +5,9 @@ const app = express();
 
 const winston = require('winston');
 
-const http = require('http').Server(app);
-const io = require('socket.io')(http);
-
+const http = require('http').createServer(app);
+// const io = require('socket.io')(http);
+const cors = require('cors');
 const iotServer = express();
 
 require('dotenv').config();
@@ -21,6 +21,7 @@ const listeners = require('./socketIo/listeners')(http);
 const SensorsData = require('./Models/SensorsData');
 const devices = require('./Models/Devices');
 const UiStyling = require('./Models/UiStyling');
+const { default: axios } = require('axios');
 
 SensorsData.SensorsData.watch().on('change', (data) => {
   data.operationType == 'update' &&
@@ -62,14 +63,7 @@ UiStyling.UiStyling.watch().on('change', (data) => {
 
 PORT = process.env.PORT || 5000;
 
-io.on('connection', function (socket) {
-  console.log('a user connected');
-  socket.on('disconnect', function () {
-    console.log('User Disconnected');
-  });
-});
-
-http.listen(5000, () => {
+http.listen(PORT, () => {
   winston.info(
     `Server is running on ${process.env.NODE_ENV} mode on port ${PORT}`
       .underline.magenta
@@ -84,3 +78,36 @@ iotServer.listen(IOT_PORT, () =>
       .underline.yellow
   )
 );
+
+// const testIOT = async () => {
+//   try {
+//     const { data } = await axios.get(
+//       'http://localhost:5001/api/iot/twodegitnumber'
+//     );
+//     const config = {
+//       headers: {
+//         'Content-type': 'application/json',
+//       },
+//     };
+
+//     const result = await axios.put(
+//       'http://localhost:5000/api/sensors',
+//       {
+//         deviceId: '627d0cb3e74bec09f4d5f85a',
+//         value: data,
+//       },
+//       config
+//     );
+//     console.log(result.data);
+//   } catch (error) {
+//     console.log(error);
+//   }
+// };
+
+// let inter;
+
+// inter = setInterval(testIOT, 5000);
+// setTimeout(() => {
+//   clearInterval(inter);
+// }, 20000);
+// // testIOT();

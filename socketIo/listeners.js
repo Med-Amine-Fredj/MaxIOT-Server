@@ -1,5 +1,20 @@
 module.exports = function (http) {
-  const io = require('socket.io')(http);
+  const i = require('socket.io');
+
+  const io = new i.Server(http, { transports: ['websocket'] });
+
+  io.on('connection', function (socket) {
+    console.log('conect =========', socket.id);
+    io.emit('test', 'hello from node');
+    socket.on('disconnect', () => {
+      console.log('disconnect =========', socket.connected);
+    });
+    socket.on('connect_error', () => {
+      console.log('socket disconnected with error');
+      // socket.connect();
+    });
+  });
+
   const deviceValuesUpdate = (data) => {
     io.emit('devices-values-update', data);
   };
@@ -28,18 +43,11 @@ module.exports = function (http) {
     io.emit('uiStyling-updated', data);
   };
 
-  const connSocket = () => {
-    io.on('connection', function (socket) {
-      console.log('A user connected');
-    });
-  };
-
   return {
     deviceValuesUpdate,
     deviceUpdate,
     deviceRemoved,
     deviceInserted,
-    connSocket,
     uiStylingInserted,
     uiStylingRemove,
     uiStylingUpdate,

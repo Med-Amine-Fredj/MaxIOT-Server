@@ -8,7 +8,7 @@ router.get(
   '/twoDegitNumber',
   asyncHandler(async (req, res) => {
     try {
-      res.send(randomNumberGenerator(-99, 99).toString());
+      res.send(randomNumberGenerator(0, 99).toString());
     } catch (error) {
       console.log(error);
     }

@@ -776,3 +776,422 @@
 {"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-19T16:36:56.353Z"}
 {"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-19T16:36:56.354Z"}
 {"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-19T16:36:56.378Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T10:12:01.521Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T10:12:01.521Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T10:12:01.543Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T10:30:06.138Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T10:30:06.139Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T10:30:06.158Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T14:24:42.735Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T14:24:42.736Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T14:24:42.759Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:09:59.248Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:09:59.249Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:09:59.271Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:10:11.376Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:10:11.377Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:10:11.398Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:11:18.434Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:11:18.435Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:11:18.456Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:15:08.149Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:15:08.150Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:15:08.173Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:18.710Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:18.711Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:18.738Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:24.596Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:24.597Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:24.621Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:35.139Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:35.139Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:35.172Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:48.883Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:48.884Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:48.904Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:56.044Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:56.044Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:19:56.067Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:20:22.932Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:20:22.933Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:20:22.954Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:21:10.137Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:21:10.138Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:21:10.164Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:21:42.311Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:21:42.312Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:21:42.331Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:21:49.018Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:21:49.019Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:21:49.039Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:22:12.027Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:22:12.027Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:22:12.049Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:22:21.787Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:22:21.787Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:22:21.808Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:29:33.014Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:29:33.014Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T15:29:33.042Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:33:33.009Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:33:33.010Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:33:33.055Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:36:58.786Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:36:58.787Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:36:58.811Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:39:11.679Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:39:11.680Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:39:11.715Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:41:25.652Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:41:25.653Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:41:25.673Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:42:01.632Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:42:01.633Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:42:01.670Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:42:37.409Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:42:37.410Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:42:37.434Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:43:20.857Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:43:20.858Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:43:20.886Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:43:34.132Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:43:34.133Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:43:34.158Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:43:49.663Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:43:49.664Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:43:49.690Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:44:08.589Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:44:08.590Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:44:08.611Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:44:36.613Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:44:36.614Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:44:36.650Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:08.861Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:08.863Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:08.897Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:16.200Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:16.202Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:16.233Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:19.233Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:19.234Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:19.286Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:30.030Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:30.031Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:30.054Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:45.691Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:45.692Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:45:45.719Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:46:06.451Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:46:06.452Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:46:06.479Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:46:47.585Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:46:47.586Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:46:47.610Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:38.580Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:38.581Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:38.599Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:44.246Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:44.247Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:44.267Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:56.500Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:56.501Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:56.525Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:58.264Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:58.265Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:48:58.288Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:49:00.832Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:49:00.832Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:49:00.853Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:50:44.653Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:50:44.654Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:50:44.693Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:06.478Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:06.479Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:06.500Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:09.258Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:09.258Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:09.279Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:16.135Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:16.136Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:16.158Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mNode Red Server Started On Port 8000 ...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:19.129Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:31.039Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:31.040Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:31.057Z"}
+{"level":"info","message":"\u001b[32m\u001b[4mNode Red Server Started On Port 8000 ...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:52:33.664Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:53:55.711Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:53:55.712Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:53:55.744Z"}
+{"level":"info","message":"Socket is connected with the id \u001b[31m\u001b[4m28b-nCmvUD0omaslAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:53:58.676Z"}
+{"level":"info","message":"\u001b[32m\u001b[4mNode Red Server Started On Port 8000 ...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:53:58.684Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:38.710Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:38.711Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:38.741Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : CpuY4bUXUB6RxCPtAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:41.860Z"}
+{"level":"info","message":"\u001b[32m\u001b[4mNode Red Server Started On Port 8000 ...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:41.865Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:47.924Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:47.925Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:47.948Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : VgSdZP2f5CdHHKpqAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:50.589Z"}
+{"level":"info","message":"\u001b[32m\u001b[4mNode Red Server Started On Port 8000 ...\u001b[24m\u001b[39m","timestamp":"2022-05-20T16:54:50.596Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:34:12.702Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:34:12.703Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:34:12.723Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:35:11.040Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:35:11.041Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:35:11.064Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : UOM5eXWO5GEHTPfpAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:36:27.762Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 7Ako7ccvDskS-V9MAAAD\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:36:31.026Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:42:05.701Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:42:05.701Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:42:05.724Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : -fEgNwKsKv2IsOt5AAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:42:07.796Z"}
+{"level":"info","message":"\u001b[32m\u001b[4mNode Red Server Started On Port 8000 ...\u001b[24m\u001b[39m","timestamp":"2022-05-23T09:42:07.808Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:00:04.440Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:00:04.441Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:00:04.462Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : zgSeHA3FV3ANvMclAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:00:06.616Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : HvldKDowIVdxzUzDAAAD\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:13:02.132Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : MC8QWYpVpTXvIOMuAAAF\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:15:29.755Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : zOZZ-YK7zqm-RpChAAAH\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:16:29.507Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : jn8UTGiYzMuf3bAjAAAJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:16:59.785Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : BYVqYv9YCBWiuTGsAAAL\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:17:18.680Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : bMOVRFo9AIV1NoiPAAAN\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:17:37.336Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : khKGBcYsU0s9AzWkAAAP\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:18:34.522Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : CKAGLgoRE8zGFHLoAAAR\u001b[24m\u001b[39m","timestamp":"2022-05-23T10:25:31.951Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : WTj0idM7Vf1B7FP_AAAT\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:00:02.163Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : SyBI07r6kbf_eADlAAAV\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:00:09.370Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : OtIl6xecQriBriZdAAAX\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:00:41.580Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : f1_2lmFQuSoLasrlAAAZ\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:01:33.175Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : HUE6Gz-L3GVcAXJdAAAb\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:02:46.020Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : yu86kEf0wMa4eoSDAAAd\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:03:05.969Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:03:58.335Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:03:58.336Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:03:58.357Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:04:00.983Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:04:00.984Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:04:01.004Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : QUgKYQsOtp6mN-AtAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:04:01.275Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:04:17.194Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:04:17.195Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:04:17.215Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : UYIM20tUXj3X6T51AAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:04:19.106Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 62QJwWLi_xBFazcmAAAD\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:47:32.292Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : pthcWY6Hfv8ajNiBAAAF\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:47:44.882Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Cr82soHefUTQDm5CAAAH\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:47:47.076Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 2_boKy3TiTHjccPWAAAJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:47:55.517Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Md00mU5MhbAUDfaTAAAL\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:48:14.529Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : yxs_Vqd5DpzHymvfAAAN\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:48:44.660Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : QyH7kl30KU4icX2mAAAP\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:49:07.235Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : uDRUGyYmzamrFXOTAAAR\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:49:39.762Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Td0buDCrfY30hEvxAAAT\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:50:04.030Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 7n35ZKBgPB5sZMzkAAAV\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:50:30.344Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : eUqWHthAcZmqnWY4AAAX\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:50:35.577Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 69E0zqfbrFpypI_qAAAZ\u001b[24m\u001b[39m","timestamp":"2022-05-23T11:51:34.625Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 1synZgipO1hluQeaAAAb\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:34:54.983Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 8JGyhBcgGGB4wIyXAAAd\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:36:25.564Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 7wsjsgr4W4K1qxD0AAAf\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:38:34.569Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : CIquS3EEA1rF_7MUAAAh\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:39:22.111Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : boCoVDfqR5rURryAAAAj\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:42:28.894Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 2g77B4uVtaD7B1_pAAAl\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:42:41.848Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : _iqZ7fvraHz7TZYZAAAn\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:42:55.178Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : ZrqtW6EDWbpbXB3SAAAp\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:43:37.732Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : BigRypRpgovBpxpFAAAr\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:44:11.631Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : FqW_XtXuV9CyUKRWAAAt\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:44:12.415Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : P4zDt7LzgDbJ4UXgAAAv\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:44:51.634Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Aa0-NxW5xu-5a6-6AAAx\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:45:07.704Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : iD1nk8ZmqYD7hxgeAAAz\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:46:16.753Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : AWcCpWKfWGLnlH6hAAA1\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:46:37.672Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : qfdNKXgvtE0Uhh23AAA3\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:47:04.227Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 5xiLHTXyFixNJ1LyAAA5\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:47:15.741Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : ETMkaissAnWl1PXwAAA7\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:47:58.438Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : kcOuqs6-MFugccO8AAA9\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:48:34.551Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 1-e6PcBdYuWn6NNIAAA_\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:50:30.581Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : eBqgyI94QDp9KCCkAABB\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:51:30.890Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : TysN6rIjgd75YdyjAABD\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:51:36.695Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : gPLz4stMFbXM8p9QAABF\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:52:34.184Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Lxj3zOIKhLRk-41kAABH\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:52:47.644Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 3pGuTdNP5VPUo-OiAABJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:54:20.428Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : AGoD3ogY9XsMgxZrAABL\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:55:02.296Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 5HC-E2PSDJ8niJlpAABN\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:55:56.822Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : kARUyrL8wc6kJBb8AABP\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:56:15.225Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : EuBxjsWR9tuSymrRAABR\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:56:24.521Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : lP68QgkU95fmgnpwAABT\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:56:48.838Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : x2dbwjNsK5EhS_TkAABV\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:57:12.657Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : x8JVO7C_N5o7VjMeAABX\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:57:19.776Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : fULM2IEPB_cWt6PvAABZ\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:57:29.423Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : r7po-YCqxGXyx-6kAABb\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:57:36.859Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 66by35v8iIdzyHHIAABd\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:58:00.025Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Vt6tYQl-3LUSpck-AABf\u001b[24m\u001b[39m","timestamp":"2022-05-23T13:59:37.010Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : fb3QiGsWF_0UUMsPAABh\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:00:49.498Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : uX8nhCFcXc8LVByHAABj\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:01:19.974Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : ZDZ-YIgwRPv2eIFkAABl\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:01:48.954Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : izSMoiw_0-afouNAAABn\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:02:05.800Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : gc9W5S61JjYmcIgfAABp\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:02:11.645Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : UDRyM4U8iPJyjE4QAABr\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:02:16.148Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : T0TJCvMC93Y4cl6GAABt\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:03:09.988Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 4TIMNjD-OZSOfM_NAABv\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:03:18.918Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 09SDzuRzoTse8iBIAABx\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:03:26.400Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 9cdoIrJEoMFozpzCAABz\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:03:31.328Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : pI7m1Dim9ig3xlBOAAB1\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:03:59.460Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : r1UVzF9CEu3efuOjAAB3\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:04:33.075Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 1wv0dxENhCDquqZRAAB5\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:05:05.950Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : v6vJ5JC_8RJ_HiIUAAB7\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:05:41.226Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : IGSYXZsqxq1FOAEPAAB9\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:06:32.824Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : SIc_XO5huqS0peREAAB_\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:06:36.994Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : KerEUPQKU_dHFTS1AACB\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:16:03.492Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 3NMOdIMmAdZqc6KrAACD\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:16:16.317Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : m4s_3NCULHeesOvUAACF\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:17:04.014Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : THpgcWFtMMnrpXS3AACH\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:17:21.468Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : nIngn50Edhex0tpTAACJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:17:34.053Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 2G-w7am1ZYwt7GodAACL\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:18:11.912Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : aBXwFOM3tFUdt7ALAACN\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:18:19.239Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : AOUpUJ_XUH-DLcCVAACP\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:18:25.467Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : bR6-rmJUQUMv1wT1AACR\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:19:13.055Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : srt1l0vrAZff561FAACT\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:28:38.229Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Jav8Mi-DOQUulZ8IAACV\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:28:45.154Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : jI1APVNojKBOKauaAACX\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:29:23.982Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : xlm3EkSaH468uGHYAACZ\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:29:31.345Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 9LPJBRtsC6TJHZ2WAACb\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:29:33.798Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : KXySA5lr1lhZQZN2AACd\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:29:39.732Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : zm6sFTVUVwM7eJ30AACf\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:29:44.579Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : fyslfMe18tcC80t4AACh\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:30:40.122Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 7Hsv8EOk7X8gbZZiAACj\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:30:43.181Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 0aYhTYLj5AR2eGgfAACl\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:30:48.954Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : z0IjSCjeqDl64bcnAACn\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:30:54.757Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : wLX8Cafi628iyGivAACp\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:31:03.181Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 0ihs6_WHf3bSAvmvAACr\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:31:06.767Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Pzc14IGKyHcml360AACt\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:31:20.755Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : sITMgYVF6prtphXOAACv\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:31:26.529Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 86svPR2TcgHaNsRfAACx\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:31:38.583Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : f9pS0ZBincVcOHDEAACz\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:31:43.460Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : GvhGCbCzylCeEod2AAC1\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:31:48.216Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : uVWCMahQt3V-0JCgAAC3\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:31:57.455Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : gu99vzu_5bZrKRqRAAC5\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:32:02.036Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : d7oLBuglrPgNnhiYAAC7\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:38:24.364Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : KlcLy1CV2IWElGnWAAC9\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:38:29.711Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 5LNc_y6vHSOZDvahAAC_\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:41:31.594Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : sH-xoR0U8lQtDVT6AADB\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:41:45.154Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 5gO50wdyvwUp1DdTAADD\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:42:15.034Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : I3VKhl1W6sTLYr7ZAADF\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:42:20.399Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : TbEeyEybmxG-VjwWAADH\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:42:39.899Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : KJDsrrEI7EmaH8NaAADJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:42:43.703Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : gYzzXsT3foRmmoWQAADL\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:42:48.617Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : NnDroAaH_XI2bL3MAADN\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:43:38.036Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : CkAYROFIAVwWs5PEAADP\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:43:59.061Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : ble8O0z1G3mllh7mAADR\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:44:03.827Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : tQqEGOiK0k0XYLPeAADT\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:44:17.762Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : htE5QnzChTv1nXnuAADV\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:45:30.323Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : azfKBicjkM4REotfAADX\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:46:15.161Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:52:06.334Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:52:06.335Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:52:06.378Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : UDIOgEm-h3tQ8TUuAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:52:16.931Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : lHAy5q-KUkNBxz3pAAAD\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:54:41.493Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : uJOLAtsrlDioEiE3AAAF\u001b[24m\u001b[39m","timestamp":"2022-05-23T14:56:07.931Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : vWR0Ov3fEqrmBeCoAAAH\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:02:29.669Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : svXqe7rl4dXmmO_wAAAJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:03:07.494Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : nHpgBx9v1v_OIrjtAAAL\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:05:39.928Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : kTSjDpOcYCgk887CAAAN\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:06:33.417Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : _oNVaqY755NpFTPPAAAP\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:06:53.608Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : TBHDkVEkpzENqIFfAAAR\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:08:48.920Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : V3eeWqB6wVvtORulAAAT\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:09:08.508Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : o8nitLulccavBtTWAAAV\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:09:21.397Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : iOGVds7vYUoi-49FAAAX\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:11:50.815Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : onNK6rZQQD91S81zAAAZ\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:13:52.343Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 5_FKmiYfG4Z8esfMAAAb\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:14:47.965Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:15:19.081Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:15:19.082Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:15:19.114Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : bR7A60B5LVI5IJamAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:15:19.353Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : NJxG5_V53ZQyu6EOAAAD\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:16:24.239Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 25fxGHE6gnzHtfPdAAAF\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:17:46.712Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : k4XB_rN6XfcQR3FOAAAH\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:22:53.275Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : IFzmg2OUqTks9HJmAAAJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:23:15.127Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : s3LwhGQgoRAtNognAAAL\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:23:18.282Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : TbPdVET34z907W3vAAAN\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:23:21.802Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : JyM_Ls7eveupuBJJAAAP\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:23:49.759Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : sB87Qmq3vlF3EA9RAAAR\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:24:00.716Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : UCM24dU7q_z77cfYAAAT\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:24:18.293Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : kgOS3eJHf9F_5c7zAAAV\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:24:33.575Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : KXwfBVjZ_7Gf9U-3AAAX\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:25:02.750Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : KBmN1AF_fgBLlQfBAAAZ\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:25:27.915Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : D-ebpakGJU9YyATXAAAb\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:25:37.508Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : fFgAP3K5KbQ1ud0uAAAd\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:25:57.429Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:19.660Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:19.661Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:19.684Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 0WpmRL7KOCcDHdHnAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:19.900Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : e1tDagbvoUqgVPBLAAAG\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:20.268Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : oOYshs_3iuLWv_RTAAAH\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:20.274Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : UST7cQZOToyjne7qAAAI\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:20.283Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Q0pst3JoZuQ6RSubAAAJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:20.290Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : YsccT4gEaf318-jsAAAN\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:20.646Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : KlVbd0H7zI-hpdYpAAAO\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:20.878Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : -8CK6-H96FDXcluwAAAP\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:20.900Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : SpkD0aFLS8j7k5VcAAAU\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:21.253Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : F2CEAVWW_bEOTNt4AAAV\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:21.259Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : CWoc-vgFQ0jXaAWBAAAW\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:21.267Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : NZhhLsyBUpo0mdpbAAAX\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:21.276Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 47doxyJh9nZTtF5mAAAZ\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:26:51.554Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : JV1DM8I2UrMmhSSHAAAb\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:10.817Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 0ADcRh0AENGYKqRMAAAd\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:24.467Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:29.037Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:29.038Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:29.059Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : H5pD1f1bs1tRNosJAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:29.293Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : xqfxqxv_YsU7kCmtAAAF\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:29.576Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 7XHgfMg1GTGYUGEUAAAG\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:29.580Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : _4XG-GU8lflXPH_EAAAH\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:29.586Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : QHU61lj-La52gOhJAAAL\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:29.983Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : yTt1r73gvWqOxd8RAAAO\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.217Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : tjZG8nR1VaG1jGfrAAAP\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.231Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 71aDIZzZn069vc6BAAAQ\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.269Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 6lEi9OS6b6N5CFqvAAAR\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.280Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : r4MRy27g1HMlF9GvAAAW\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.644Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : EKUE5Jzr_ANBHlB8AAAY\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.652Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : TYfBEcMuxPExHHrqAAAZ\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.663Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : nmXIoX_ZFmTV-8AkAAAb\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.678Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : n8WR-MhmGAlSB0xOAAAc\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.778Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : gPxNIOu2RJBL977qAAAd\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:30.854Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : o2NqSkzmahV-4ErZAAAf\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:37.220Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : kiGlZjAdFFNKScMMAAAh\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:45.907Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : AFILPgBC44Oj6kHHAAAj\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:27:53.003Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:28:00.036Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:28:00.037Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:28:00.059Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : NF69XvbXDnmotj_CAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:28:00.883Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : lGEExMge-EWLqpUEAAAD\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:32:45.830Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : l6ZcMm3LJ1Nbvf5gAAAF\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:32:58.167Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : iVS-iZQ_mBYPYGhIAAAH\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:33:28.151Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : EzL3K4jPLBpxAGMjAAAJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:33:39.444Z"}
+{"level":"info","message":"\u001b[35m\u001b[4mServer is running on developement mode on port 5000\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:33:44.529Z"}
+{"level":"info","message":"\u001b[33m\u001b[4mIOTServer is running on developement mode on port  5001\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:33:44.530Z"}
+{"level":"info","message":"\u001b[34m\u001b[4mConnected to mongodb://localhost:27018/replicaSet=testrep...\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:33:44.558Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : dLKZIK5SMk1xr_bfAAAB\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:33:45.368Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 9f4gzOPp2axqyBP6AAAD\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:47:49.733Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : wor531nNQgxEI93iAAAF\u001b[24m\u001b[39m","timestamp":"2022-05-23T15:56:30.998Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : O8Yt0NPADXdTuIgEAAAH\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:00:54.590Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : RnJVLjOQw2513nomAAAJ\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:02:19.011Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : As0VjMwCRDwBZaAWAAAL\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:03:00.098Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 8kF-5aaw7iXgo73QAAAN\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:03:47.114Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : RYyrXFKRGKTWcVGVAAAP\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:04:36.785Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : LjtJjDxXdcivM4egAAAR\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:04:53.226Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : EQSHpu0ZcIMBQUbfAAAT\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:05:07.370Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : pVd1dT5-W4_oQxf5AAAV\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:05:31.693Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : z-kiCzesbxwjgKrWAAAX\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:05:39.025Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : VwyrobO5libz5h6OAAAZ\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:05:53.821Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : ikk95s64udYi5vscAAAb\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:07:01.491Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : CxMmzori3Fe7_ITAAAAd\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:08:18.699Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : zTHoG1w4b66ZUedeAAAf\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:09:09.547Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : sJBZ0Cf1E1u_yOi4AAAh\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:27:20.200Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : zwesU7lf64fkazUtAAAj\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:31:00.118Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : aQeFKMqAxHbTgFL7AAAl\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:31:16.308Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : mXkpiCaqjIij-7zgAAAn\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:31:21.578Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : MLbhq7FeKxf7xsfxAAAp\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:32:09.400Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : qy0za5udO_3XDmVxAAAr\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:32:37.600Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : h3LsIhaUwuwrIaobAAAt\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:32:42.558Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : THTlVe8ygPO10DCLAAAv\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:52:13.369Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : FGeF2iCdyBVFHc0_AAAx\u001b[24m\u001b[39m","timestamp":"2022-05-23T16:52:42.091Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : 80ce0sa-HFD9tK8sAAAz\u001b[24m\u001b[39m","timestamp":"2022-05-23T17:00:31.719Z"}
+{"level":"info","message":"\u001b[31m\u001b[4mSocket is connected with the id : Btgs8_OEVkNbfit2AAA1\u001b[24m\u001b[39m","timestamp":"2022-05-23T17:00:40.916Z"}

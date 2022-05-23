@@ -22,6 +22,7 @@ const SensorsData = require('./Models/SensorsData');
 const devices = require('./Models/Devices');
 const UiStyling = require('./Models/UiStyling');
 const { default: axios } = require('axios');
+const { eventNames } = require('process');
 
 SensorsData.SensorsData.watch().on('change', (data) => {
   data.operationType == 'update' &&
@@ -111,3 +112,4 @@ iotServer.listen(IOT_PORT, () =>
 //   clearInterval(inter);
 // }, 20000);
 // // testIOT();
+listeners.socketConn();

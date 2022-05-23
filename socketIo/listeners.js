@@ -1,19 +1,26 @@
+const { default: axios } = require('axios');
+const winston = require('winston');
+
 module.exports = function (http) {
   const i = require('socket.io');
 
   const io = new i.Server(http, { transports: ['websocket'] });
 
-  io.on('connection', function (socket) {
-    console.log('conect =========', socket.id);
-    io.emit('test', 'hello from node');
-    socket.on('disconnect', () => {
-      console.log('disconnect =========', socket.connected);
+  const socketConn = () => {
+    io.on('connection', function (socket) {
+      winston.info(
+        `Socket is connected with the id : ${socket.id}`.underline.red
+      );
+      io.emit('test', 'hello from node');
+      socket.on('disconnect', () => {
+        console.log('disconnect =========', socket.disconnected);
+      });
+      socket.on('connect_error', () => {
+        console.log('socket disconnected with error');
+      });
+      return socket.connected;
     });
-    socket.on('connect_error', () => {
-      console.log('socket disconnected with error');
-      // socket.connect();
-    });
-  });
+  };
 
   const deviceValuesUpdate = (data) => {
     io.emit('devices-values-update', data);
@@ -51,5 +58,6 @@ module.exports = function (http) {
     uiStylingInserted,
     uiStylingRemove,
     uiStylingUpdate,
+    socketConn,
   };
 };
